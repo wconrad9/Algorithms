@@ -1,0 +1,2 @@
+created my own implementation of Huffman's algorithm, a greedy alg that is used for determining the
+most efficient encoding/decoding scheme for data or information.
